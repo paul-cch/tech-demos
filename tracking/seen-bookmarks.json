@@ -1,5 +1,7 @@
 {
-  "proposed": [
+  "proposed": [],
+  "skipped": [],
+  "built": [
     {
       "id": "2089703872583643363",
       "title": "durable-git (dgit) \u2014 Git forge on Cloudflare Durable Objects",
@@ -8,7 +10,5 @@
       "slug": "durable-git-playground",
       "repo": "https://github.com/littledivy/durable-git"
     }
-  ],
-  "skipped": [],
-  "built": []
+  ]
 }
