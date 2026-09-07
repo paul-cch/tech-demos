@@ -1,14 +1,32 @@
 {
   "proposed": [
     {
+      "id": "2081474379691753950",
+      "title": "Pomelli (Google Labs) \u2014 brand kit + on-brand content from a website URL",
+      "url": "https://x.com/exploraX_/status/2081474379691753950",
+      "date": "2026-09-07",
+      "slug": "pomelli-brand-kit",
+      "product": "https://labs.google.com/pomelli"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "2090242877766967341",
+      "title": "ast-grep",
+      "url": "https://x.com/hd_nvim/status/2090242877766967341",
+      "date": "2026-09-07",
+      "reason": "widget dismissed / owner moved on"
+    }
+  ],
+  "built": [
+    {
       "id": "2089703872583643363",
       "title": "durable-git (dgit) \u2014 Git forge on Cloudflare Durable Objects",
       "url": "https://x.com/undefined_void/status/2089703872583643363",
       "date": "2026-09-07",
       "slug": "durable-git-playground",
-      "repo": "https://github.com/littledivy/durable-git"
+      "repo": "https://github.com/littledivy/durable-git",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/2"
     }
-  ],
-  "skipped": [],
-  "built": []
+  ]
 }
