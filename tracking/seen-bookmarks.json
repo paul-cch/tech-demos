@@ -1,14 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "2081474379691753950",
-      "title": "Pomelli (Google Labs) \u2014 brand kit + on-brand content from a website URL",
-      "url": "https://x.com/exploraX_/status/2081474379691753950",
-      "date": "2026-09-07",
-      "slug": "pomelli-brand-kit",
-      "product": "https://labs.google.com/pomelli"
-    }
-  ],
+  "proposed": [],
   "skipped": [
     {
       "id": "2090242877766967341",
@@ -16,6 +7,15 @@
       "url": "https://x.com/hd_nvim/status/2090242877766967341",
       "date": "2026-09-07",
       "reason": "widget dismissed / owner moved on"
+    },
+    {
+      "id": "2081474379691753950",
+      "title": "Pomelli (Google Labs) \u2014 brand kit + on-brand content from a website URL",
+      "url": "https://x.com/exploraX_/status/2081474379691753950",
+      "date": "2026-09-08",
+      "slug": "pomelli-brand-kit",
+      "product": "https://labs.google.com/pomelli",
+      "reason": "owner skipped"
     }
   ],
   "built": [
