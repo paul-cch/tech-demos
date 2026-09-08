@@ -1,14 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "2089824319925068167",
-      "title": "botdirectory.ai — open-source directory of agent-bot prompts",
-      "url": "https://x.com/Granite0x/status/2089824319925068167",
-      "date": "2026-09-08",
-      "slug": "botdirectory-browser",
-      "product": "https://github.com/elie222/botdirectory.ai"
-    }
-  ],
+  "proposed": [],
   "skipped": [
     {
       "id": "2090242877766967341",
@@ -36,6 +27,15 @@
       "slug": "durable-git-playground",
       "repo": "https://github.com/littledivy/durable-git",
       "pr": "https://github.com/paul-cch/tech-demos/pull/2"
+    },
+    {
+      "id": "2089824319925068167",
+      "title": "botdirectory.ai — open-source directory of agent-bot prompts",
+      "url": "https://x.com/Granite0x/status/2089824319925068167",
+      "date": "2026-09-08",
+      "slug": "botdirectory-browser",
+      "product": "https://github.com/elie222/botdirectory.ai",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/3"
     }
   ]
 }
