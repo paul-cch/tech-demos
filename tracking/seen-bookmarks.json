@@ -1,5 +1,14 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2089824319925068167",
+      "title": "botdirectory.ai — open-source directory of agent-bot prompts",
+      "url": "https://x.com/Granite0x/status/2089824319925068167",
+      "date": "2026-09-08",
+      "slug": "botdirectory-browser",
+      "product": "https://github.com/elie222/botdirectory.ai"
+    }
+  ],
   "skipped": [
     {
       "id": "2090242877766967341",
@@ -10,7 +19,7 @@
     },
     {
       "id": "2081474379691753950",
-      "title": "Pomelli (Google Labs) \u2014 brand kit + on-brand content from a website URL",
+      "title": "Pomelli (Google Labs) — brand kit + on-brand content from a website URL",
       "url": "https://x.com/exploraX_/status/2081474379691753950",
       "date": "2026-09-08",
       "slug": "pomelli-brand-kit",
@@ -21,7 +30,7 @@
   "built": [
     {
       "id": "2089703872583643363",
-      "title": "durable-git (dgit) \u2014 Git forge on Cloudflare Durable Objects",
+      "title": "durable-git (dgit) — Git forge on Cloudflare Durable Objects",
       "url": "https://x.com/undefined_void/status/2089703872583643363",
       "date": "2026-09-07",
       "slug": "durable-git-playground",
