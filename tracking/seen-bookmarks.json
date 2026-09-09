@@ -43,7 +43,8 @@
       "url": "https://x.com/evilpingwin/status/2097359184207511654",
       "date": "2026-09-09",
       "slug": "ml-intern-playground",
-      "product": "https://github.com/huggingface/ml-intern"
+      "product": "https://github.com/huggingface/ml-intern",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/4"
     }
   ]
 }
