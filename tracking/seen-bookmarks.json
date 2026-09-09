@@ -7,14 +7,6 @@
       "date": "2026-09-08",
       "slug": "botdirectory-browser",
       "product": "https://github.com/elie222/botdirectory.ai"
-    },
-    {
-      "id": "2097359184207511654",
-      "title": "ML Intern (Hugging Face) \u2014 open-source ML agent, now in HuggingChat",
-      "url": "https://x.com/evilpingwin/status/2097359184207511654",
-      "date": "2026-09-09",
-      "slug": "ml-intern-playground",
-      "product": "https://github.com/huggingface/ml-intern"
     }
   ],
   "skipped": [
@@ -44,7 +36,14 @@
       "slug": "durable-git-playground",
       "repo": "https://github.com/littledivy/durable-git",
       "pr": "https://github.com/paul-cch/tech-demos/pull/2"
+    },
+    {
+      "id": "2097359184207511654",
+      "title": "ML Intern (Hugging Face) \u2014 open-source ML agent, now in HuggingChat",
+      "url": "https://x.com/evilpingwin/status/2097359184207511654",
+      "date": "2026-09-09",
+      "slug": "ml-intern-playground",
+      "product": "https://github.com/huggingface/ml-intern"
     }
   ]
 }
-
