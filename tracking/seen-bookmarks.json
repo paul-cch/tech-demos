@@ -15,14 +15,6 @@
       "date": "2026-09-09",
       "slug": "ml-intern-playground",
       "product": "https://github.com/huggingface/ml-intern"
-    },
-    {
-      "id": "2089839884060049772",
-      "title": "learn-harness-engineering (walkinglabs) \u2014 project-based course for AI coding-agent harnesses",
-      "url": "https://x.com/tom_doerr/status/2089839884060049772",
-      "date": "2026-09-10",
-      "slug": "harness-playground",
-      "product": "https://github.com/walkinglabs/learn-harness-engineering"
     }
   ],
   "skipped": [
@@ -52,6 +44,15 @@
       "slug": "durable-git-playground",
       "repo": "https://github.com/littledivy/durable-git",
       "pr": "https://github.com/paul-cch/tech-demos/pull/2"
+    },
+    {
+      "id": "2089839884060049772",
+      "title": "learn-harness-engineering (walkinglabs) \u2014 project-based course for AI coding-agent harnesses",
+      "url": "https://x.com/tom_doerr/status/2089839884060049772",
+      "date": "2026-09-10",
+      "slug": "harness-playground",
+      "product": "https://github.com/walkinglabs/learn-harness-engineering",
+      "pr": "PENDING"
     }
   ]
 }
