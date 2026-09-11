@@ -23,6 +23,14 @@
       "date": "2026-09-10",
       "slug": "harness-playground",
       "product": "https://github.com/walkinglabs/learn-harness-engineering"
+    },
+    {
+      "id": "2097732320606507506",
+      "title": "pstack \u2014 multi-model agent supervision / role stack (poteto Pt. 2)",
+      "url": "https://x.com/poteto/status/2097732320606507506",
+      "date": "2026-09-11",
+      "slug": "pstack-playground",
+      "product": "https://github.com/poteto/pstack"
     }
   ],
   "skipped": [
