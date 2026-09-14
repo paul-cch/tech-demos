@@ -25,14 +25,6 @@
       "product": "https://github.com/walkinglabs/learn-harness-engineering"
     },
     {
-      "id": "2097732320606507506",
-      "title": "pstack \u2014 multi-model agent supervision / role stack (poteto Pt. 2)",
-      "url": "https://x.com/poteto/status/2097732320606507506",
-      "date": "2026-09-11",
-      "slug": "pstack-playground",
-      "product": "https://github.com/poteto/pstack"
-    },
-    {
       "id": "2090117455171768707",
       "title": "OpenHistory \u2014 open-source Mac work timeline + local MCP for agents",
       "url": "https://x.com/zachtratar/status/2090117455171768707",
@@ -57,6 +49,15 @@
       "slug": "pomelli-brand-kit",
       "product": "https://labs.google.com/pomelli",
       "reason": "owner skipped"
+    },
+    {
+      "id": "2097732320606507506",
+      "title": "pstack \u2014 multi-model agent supervision / role stack (poteto Pt. 2)",
+      "url": "https://x.com/poteto/status/2097732320606507506",
+      "date": "2026-09-14",
+      "slug": "pstack-playground",
+      "product": "https://github.com/poteto/pstack",
+      "reason": "widget dismissed / owner moved on"
     }
   ],
   "built": [
