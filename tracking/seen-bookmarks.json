@@ -31,6 +31,14 @@
       "date": "2026-09-11",
       "slug": "pstack-playground",
       "product": "https://github.com/poteto/pstack"
+    },
+    {
+      "id": "2090117455171768707",
+      "title": "OpenHistory \u2014 open-source Mac work timeline + local MCP for agents",
+      "url": "https://x.com/zachtratar/status/2090117455171768707",
+      "date": "2026-09-14",
+      "slug": "openhistory-playground",
+      "product": "https://github.com/ztratar/openhistory"
     }
   ],
   "skipped": [
