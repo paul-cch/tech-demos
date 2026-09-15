@@ -1,38 +1,5 @@
 {
-  "proposed": [
-    {
-      "id": "2089824319925068167",
-      "title": "botdirectory.ai \u2014 open-source directory of agent-bot prompts",
-      "url": "https://x.com/Granite0x/status/2089824319925068167",
-      "date": "2026-09-08",
-      "slug": "botdirectory-browser",
-      "product": "https://github.com/elie222/botdirectory.ai"
-    },
-    {
-      "id": "2097359184207511654",
-      "title": "ML Intern (Hugging Face) \u2014 open-source ML agent, now in HuggingChat",
-      "url": "https://x.com/evilpingwin/status/2097359184207511654",
-      "date": "2026-09-09",
-      "slug": "ml-intern-playground",
-      "product": "https://github.com/huggingface/ml-intern"
-    },
-    {
-      "id": "2089839884060049772",
-      "title": "learn-harness-engineering (walkinglabs) \u2014 project-based course for AI coding-agent harnesses",
-      "url": "https://x.com/tom_doerr/status/2089839884060049772",
-      "date": "2026-09-10",
-      "slug": "harness-playground",
-      "product": "https://github.com/walkinglabs/learn-harness-engineering"
-    },
-    {
-      "id": "2090117455171768707",
-      "title": "OpenHistory \u2014 open-source Mac work timeline + local MCP for agents",
-      "url": "https://x.com/zachtratar/status/2090117455171768707",
-      "date": "2026-09-14",
-      "slug": "openhistory-playground",
-      "product": "https://github.com/ztratar/openhistory"
-    }
-  ],
+  "proposed": [],
   "skipped": [
     {
       "id": "2090242877766967341",
@@ -58,6 +25,15 @@
       "slug": "pstack-playground",
       "product": "https://github.com/poteto/pstack",
       "reason": "widget dismissed / owner moved on"
+    },
+    {
+      "id": "2090117455171768707",
+      "title": "OpenHistory \u2014 open-source Mac work timeline + local MCP for agents",
+      "url": "https://x.com/zachtratar/status/2090117455171768707",
+      "date": "2026-09-15",
+      "slug": "openhistory-playground",
+      "product": "https://github.com/ztratar/openhistory",
+      "reason": "owner skipped"
     }
   ],
   "built": [
@@ -69,6 +45,33 @@
       "slug": "durable-git-playground",
       "repo": "https://github.com/littledivy/durable-git",
       "pr": "https://github.com/paul-cch/tech-demos/pull/2"
+    },
+    {
+      "id": "2089824319925068167",
+      "title": "botdirectory.ai \u2014 open-source directory of agent-bot prompts",
+      "url": "https://x.com/Granite0x/status/2089824319925068167",
+      "date": "2026-09-08",
+      "slug": "botdirectory-browser",
+      "product": "https://github.com/elie222/botdirectory.ai",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/3"
+    },
+    {
+      "id": "2097359184207511654",
+      "title": "ML Intern (Hugging Face) \u2014 open-source ML agent, now in HuggingChat",
+      "url": "https://x.com/evilpingwin/status/2097359184207511654",
+      "date": "2026-09-09",
+      "slug": "ml-intern-playground",
+      "product": "https://github.com/huggingface/ml-intern",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/4"
+    },
+    {
+      "id": "2089839884060049772",
+      "title": "learn-harness-engineering (walkinglabs) \u2014 project-based course for AI coding-agent harnesses",
+      "url": "https://x.com/tom_doerr/status/2089839884060049772",
+      "date": "2026-09-10",
+      "slug": "harness-playground",
+      "product": "https://github.com/walkinglabs/learn-harness-engineering",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/5"
     }
   ]
 }
