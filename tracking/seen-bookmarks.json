@@ -1,5 +1,14 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2104618080550924524",
+      "title": "JupyterLite WebMCP \u2014 agent edits live JupyterLite notebooks via WebMCP",
+      "url": "https://x.com/OpenAIDevs/status/2104618080550924524",
+      "date": "2026-09-29",
+      "slug": "jupyterlite-webmcp-playground",
+      "product": "https://github.com/alliecatowo/jupyterlite-web-mcp"
+    }
+  ],
   "skipped": [
     {
       "id": "2090242877766967341",
