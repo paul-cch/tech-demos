@@ -89,6 +89,15 @@
       "slug": "harness-playground",
       "product": "https://github.com/walkinglabs/learn-harness-engineering",
       "pr": "https://github.com/paul-cch/tech-demos/pull/5"
+    },
+    {
+      "id": "2106067592515576310",
+      "title": "Television — open-source visual GUI for personal agents",
+      "url": "https://x.com/stlhood/status/2106067592515576310",
+      "date": "2026-10-02",
+      "slug": "television-playground",
+      "product": "https://github.com/telepath-computer/television",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/6"
     }
   ]
 }
