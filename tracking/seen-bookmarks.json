@@ -2,7 +2,7 @@
   "proposed": [
     {
       "id": "2104618080550924524",
-      "title": "JupyterLite WebMCP — agent edits live JupyterLite notebooks via WebMCP",
+      "title": "JupyterLite WebMCP \u2014 agent edits live JupyterLite notebooks via WebMCP",
       "url": "https://x.com/OpenAIDevs/status/2104618080550924524",
       "date": "2026-09-29",
       "slug": "jupyterlite-webmcp-playground",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2105353473118404648",
-      "title": "ChatGPT Apps SDK — MCP+widget plugins that run inside ChatGPT",
+      "title": "ChatGPT Apps SDK \u2014 MCP+widget plugins that run inside ChatGPT",
       "url": "https://x.com/skirano/status/2105353473118404648",
       "date": "2026-09-30",
       "slug": "chatgpt-apps-sdk-playground",
@@ -27,7 +27,7 @@
     },
     {
       "id": "2081474379691753950",
-      "title": "Pomelli (Google Labs) — brand kit + on-brand content from a website URL",
+      "title": "Pomelli (Google Labs) \u2014 brand kit + on-brand content from a website URL",
       "url": "https://x.com/exploraX_/status/2081474379691753950",
       "date": "2026-09-08",
       "slug": "pomelli-brand-kit",
@@ -36,7 +36,7 @@
     },
     {
       "id": "2097732320606507506",
-      "title": "pstack — multi-model agent supervision / role stack (poteto Pt. 2)",
+      "title": "pstack \u2014 multi-model agent supervision / role stack (poteto Pt. 2)",
       "url": "https://x.com/poteto/status/2097732320606507506",
       "date": "2026-09-14",
       "slug": "pstack-playground",
@@ -45,7 +45,7 @@
     },
     {
       "id": "2090117455171768707",
-      "title": "OpenHistory — open-source Mac work timeline + local MCP for agents",
+      "title": "OpenHistory \u2014 open-source Mac work timeline + local MCP for agents",
       "url": "https://x.com/zachtratar/status/2090117455171768707",
       "date": "2026-09-15",
       "slug": "openhistory-playground",
@@ -56,7 +56,7 @@
   "built": [
     {
       "id": "2089703872583643363",
-      "title": "durable-git (dgit) — Git forge on Cloudflare Durable Objects",
+      "title": "durable-git (dgit) \u2014 Git forge on Cloudflare Durable Objects",
       "url": "https://x.com/undefined_void/status/2089703872583643363",
       "date": "2026-09-07",
       "slug": "durable-git-playground",
@@ -65,7 +65,7 @@
     },
     {
       "id": "2089824319925068167",
-      "title": "botdirectory.ai — open-source directory of agent-bot prompts",
+      "title": "botdirectory.ai \u2014 open-source directory of agent-bot prompts",
       "url": "https://x.com/Granite0x/status/2089824319925068167",
       "date": "2026-09-08",
       "slug": "botdirectory-browser",
@@ -74,7 +74,7 @@
     },
     {
       "id": "2097359184207511654",
-      "title": "ML Intern (Hugging Face) — open-source ML agent, now in HuggingChat",
+      "title": "ML Intern (Hugging Face) \u2014 open-source ML agent, now in HuggingChat",
       "url": "https://x.com/evilpingwin/status/2097359184207511654",
       "date": "2026-09-09",
       "slug": "ml-intern-playground",
@@ -83,12 +83,21 @@
     },
     {
       "id": "2089839884060049772",
-      "title": "learn-harness-engineering (walkinglabs) — project-based course for AI coding-agent harnesses",
+      "title": "learn-harness-engineering (walkinglabs) \u2014 project-based course for AI coding-agent harnesses",
       "url": "https://x.com/tom_doerr/status/2089839884060049772",
       "date": "2026-09-10",
       "slug": "harness-playground",
       "product": "https://github.com/walkinglabs/learn-harness-engineering",
       "pr": "https://github.com/paul-cch/tech-demos/pull/5"
+    },
+    {
+      "id": "2106067592515576310",
+      "title": "Television \u2014 open-source visual GUI for personal agents",
+      "url": "https://x.com/stlhood/status/2106067592515576310",
+      "date": "2026-10-02",
+      "slug": "television-playground",
+      "product": "https://github.com/telepath-computer/television",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/6"
     }
   ]
 }
