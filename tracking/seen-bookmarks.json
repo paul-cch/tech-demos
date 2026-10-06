@@ -15,6 +15,14 @@
       "date": "2026-09-30",
       "slug": "chatgpt-apps-sdk-playground",
       "product": "https://github.com/openai/openai-apps-sdk-examples"
+    },
+    {
+      "id": "2107185315014144357",
+      "title": "Agent Memory Repo (Cognition) — open spec for agent memory as a git repo of linked Markdown (MEMORY.md, one-line sourced entries, [[links]], Dreaming cleanup)",
+      "url": "https://x.com/walden_yan/status/2107185315014144357",
+      "date": "2026-10-06",
+      "slug": "agent-memory-repo-playground",
+      "product": "https://cognition.com/agent-memory-repo"
     }
   ],
   "skipped": [
