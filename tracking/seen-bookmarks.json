@@ -17,20 +17,13 @@
       "product": "https://github.com/openai/openai-apps-sdk-examples"
     },
     {
-      "id": "2107185315014144357",
-      "title": "Agent Memory Repo (Cognition) \u2014 open spec for agent memory as a git repo of linked Markdown (MEMORY.md, one-line sourced entries, [[links]], Dreaming cleanup)",
-      "url": "https://x.com/walden_yan/status/2107185315014144357",
-      "date": "2026-10-06",
-      "slug": "agent-memory-repo-playground",
-      "product": "https://cognition.com/agent-memory-repo"
-    },
-    {
-      "id": "2108586246855643293",
-      "title": "Jev (TypeSafe) \u2014 System One decision model: typed Choice/Noul/Score with calibrated probabilities (not chat text)",
-      "url": "https://x.com/RhysSullivan/status/2108586246855643293",
-      "date": "2026-10-13",
-      "slug": "jev-playground",
-      "product": "https://typesafe.ai"
+      "id": "2110080282279719187",
+      "title": "Scion (Anthropic) \u2014 in-house always-online version control for agent-scale monorepos: server-side changesets, derived data (blame/history), content-addressed sparse fetch",
+      "url": "https://x.com/dexhorthy/status/2110080282279719187",
+      "date": "2026-10-14",
+      "slug": "scion-vcs-playground",
+      "product": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source_post": "https://x.com/AnthropicAI/status/2110047081414987957"
     }
   ],
   "skipped": [
@@ -67,6 +60,24 @@
       "slug": "openhistory-playground",
       "product": "https://github.com/ztratar/openhistory",
       "reason": "owner skipped"
+    },
+    {
+      "id": "2107185315014144357",
+      "title": "Agent Memory Repo (Cognition) \u2014 open spec for agent memory as a git repo of linked Markdown (MEMORY.md, one-line sourced entries, [[links]], Dreaming cleanup)",
+      "url": "https://x.com/walden_yan/status/2107185315014144357",
+      "date": "2026-10-06",
+      "slug": "agent-memory-repo-playground",
+      "product": "https://cognition.com/agent-memory-repo",
+      "reason": "owner skipped (2026-10-13)"
+    },
+    {
+      "id": "2108586246855643293",
+      "title": "Jev (TypeSafe) \u2014 System One decision model: typed Choice/Noul/Score with calibrated probabilities (not chat text)",
+      "url": "https://x.com/RhysSullivan/status/2108586246855643293",
+      "date": "2026-10-13",
+      "slug": "jev-playground",
+      "product": "https://typesafe.ai",
+      "reason": "owner skipped (2026-10-13)"
     }
   ],
   "built": [
