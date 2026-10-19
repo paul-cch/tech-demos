@@ -134,7 +134,8 @@
       "date": "2026-10-19",
       "slug": "pretext-playground",
       "product": "https://github.com/chenglou/pretext",
-      "built": "2026-10-19"
+      "built": "2026-10-19",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/7"
     }
   ]
 }
