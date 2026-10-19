@@ -15,6 +15,14 @@
       "date": "2026-09-30",
       "slug": "chatgpt-apps-sdk-playground",
       "product": "https://github.com/openai/openai-apps-sdk-examples"
+    },
+    {
+      "id": "2073713632517754950",
+      "title": "Pretext (Cheng Lou) — DOM-free multiline text measurement & layout for DOM/Canvas/SVG (v1.0.0)",
+      "url": "https://x.com/YousufSoomroDev/status/2073713632517754950",
+      "date": "2026-10-19",
+      "slug": "pretext-playground",
+      "product": "https://github.com/chenglou/pretext"
     }
   ],
   "skipped": [
