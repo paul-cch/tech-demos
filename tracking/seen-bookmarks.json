@@ -15,15 +15,6 @@
       "date": "2026-09-30",
       "slug": "chatgpt-apps-sdk-playground",
       "product": "https://github.com/openai/openai-apps-sdk-examples"
-    },
-    {
-      "id": "2112767999065415701",
-      "title": "rl-env-use (Browser Use) — one-line skill description to verified RL environment from web-mined real cases, plus prompt hillclimbing",
-      "url": "https://x.com/gregpr07/status/2112767999065415701",
-      "date": "2026-10-21",
-      "slug": "rl-env-use-playground",
-      "product": "https://github.com/browser-use/rl-env-use",
-      "source_post": "https://x.com/browser_use/status/2112767614468694286"
     }
   ],
   "skipped": [
@@ -135,6 +126,16 @@
       "slug": "pretext-playground",
       "product": "https://github.com/chenglou/pretext",
       "pr": "https://github.com/paul-cch/tech-demos/pull/7"
+    },
+    {
+      "id": "2112767999065415701",
+      "title": "rl-env-use (Browser Use) — one-line skill description to verified RL environment from web-mined real cases, plus prompt hillclimbing",
+      "url": "https://x.com/gregpr07/status/2112767999065415701",
+      "date": "2026-10-21",
+      "slug": "rl-env-use-playground",
+      "product": "https://github.com/browser-use/rl-env-use",
+      "source_post": "https://x.com/browser_use/status/2112767614468694286",
+      "pr": "https://github.com/paul-cch/tech-demos/pull/8"
     }
   ]
 }
